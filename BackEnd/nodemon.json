@@ -1,0 +1,8 @@
+{
+    "env": {
+        "DB_USER": "goku",
+        "DB_PASSWORD": "26M8dfMT1Crp7Swi",
+        "DB_NAME": "mern",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
